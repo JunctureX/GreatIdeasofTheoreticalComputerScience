@@ -68,6 +68,10 @@
 	
 	\paragraph{3.4}
 	
+	考虑猴子排序，每次对其进行随机打乱，不妨认为是 $Knuth$ 洗牌法，也即 C++ 中 std::random\_shuffle 的实现。
+	
+	容易发现，单次排序成功的概率不小于 $1/n!$，当有重复元素时概率更高。则进行 $k$ 次算法内排序成功概率为 $1-(1-1/n!)^k$。
+	
 	\paragraph{3.5}
 	考虑 Karger 算法的单次执行，其停机时得到一个割，而对于任意一个最小割，得到该最小割的概率是 $P=Pr[\textit{edge in  min-cut never picked}]\geq \frac{2}{n(n-1)}$。
 	

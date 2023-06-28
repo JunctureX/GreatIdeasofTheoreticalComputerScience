@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.3.29)  28 JUN 2023 22:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.3.29)  28 JUN 2023 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1071,11 +1071,11 @@ LaTeX Font Warning: Font shape `TU/ppl/m/it' undefined
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 74.
+(amsmath)                 on input line 78.
 
 
 LaTeX Font Warning: Font shape `TU/ppl/m/sl' undefined
-(Font)              using `TU/ppl/m/it' instead on input line 76.
+(Font)              using `TU/ppl/m/it' instead on input line 80.
 
 [2] (./document.aux)
 
