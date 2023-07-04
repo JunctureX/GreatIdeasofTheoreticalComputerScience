@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.3.29)  27 JUN 2023 20:03
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.3.29)  4 JUL 2023 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,17 +1075,17 @@ LaTeX Font Warning: Font shape `TU/ppl/m/sl' undefined
 [2]
 
 LaTeX Font Warning: Font shape `TU/ppl/m/sl' undefined
-(Font)              using `TU/ppl/m/it' instead on input line 137.
+(Font)              using `TU/ppl/m/it' instead on input line 139.
 
 [3]
 
 LaTeX Font Warning: Font shape `TU/ppl/m/sl' undefined
-(Font)              using `TU/ppl/m/it' instead on input line 165.
+(Font)              using `TU/ppl/m/it' instead on input line 170.
 
 [4]
 
 LaTeX Font Warning: Font shape `TU/ppl/m/sl' undefined
-(Font)              using `TU/ppl/m/it' instead on input line 167.
+(Font)              using `TU/ppl/m/it' instead on input line 173.
 
 [5] (./document.aux)
 
@@ -1095,10 +1095,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29727 strings out of 476683
- 653243 string characters out of 5807575
+ 29703 strings out of 476683
+ 651793 string characters out of 5807575
  1874012 words of memory out of 5000000
- 49464 multiletter control sequences out of 15000+600000
+ 49440 multiletter control sequences out of 15000+600000
  522320 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,97p,468b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
