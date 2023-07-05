@@ -1,6 +1,6 @@
 肯定不是原文，大概率意思一样，看个差不多得了。
 
-1.称语言 $A,B$ 是递归可区分的，当且仅当存在一个递归的语言 $L$，$A\subseteq L$ 且 $B\subset \bar L$。现在有两个不相交的语言 $A,B$，$\bar A,\bar B$ 都是递归可枚举的，请证明 $A,B$ 递归可区分。
+1.称语言 $A,B$ 是递归可区分的，当且仅当存在一个递归的语言 $L$，$A\subseteq L$ 且 $B\subseteq \bar L$。现在有两个不相交的语言 $A,B$，$\bar A,\bar B$ 都是递归可枚举的，请证明 $A,B$ 递归可区分。
 
 2.对于一个有向图 $G=(V,E)$，点有点权 $w(u)\in \mathbb R$。请找到一个子集 $S\subseteq V$，使得对于 $\forall v\in V,\exists u\in S,s.t. u\rightarrow v$（即 $u$ 可以走到 $v$）。给出一个多项式时间复杂度算法，求出权值和最小的 $S$。
 
